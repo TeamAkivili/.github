@@ -1,12 +1,28 @@
-## Hi there 👋
+# Akivili
 
-<!--
+**Akivili**에 오신 것을 환영합니다! 저희는 AI 플랫폼을 이용해 혁신적인 사업 아이템을 생산하고, 빠르게 MVP를 만들어나가는 회사입니다. 작지만 강력한 LLM 서버로 시작하여 누구보다 빠르게 성장하고, 효율적으로 개발할 것입니다. 우리는 '개척'이라는 의지를 가지고 도전에 망설이지 않고 부딪히고 있습니다.
 
-**Here are some ideas to get you started:**
+## 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 우리의 목표
+Akivili는 AI 기술을 활용하여 다양한 사업 아이템을 창출하고, 이를 빠르게 검증 및 발전시킵니다. 우리의 목표는 효율적이고 신속한 개발을 통해 시장에서 우위를 점하는 것입니다.
+
+### 우리의 비전
+작은 시작이지만, 우리는 큰 꿈을 꾸고 있습니다. AI 기술을 통해 세상을 변화시키고, 더 나은 미래를 만들어나가는 것이 우리의 비전입니다.
+
+## 핵심 가치
+
+- **혁신**: 새로운 아이디어와 기술을 적극적으로 수용하여 시장을 선도합니다.
+- **효율성**: 자원을 최대한 활용하여 최단 시간 내에 최고의 결과를 도출합니다.
+- **도전**: 어려움에 굴하지 않고 끊임없이 도전하여 성장을 추구합니다.
+
+## 우리의 접근 방식
+
+1. **아이디어 생성**: AI 플랫폼을 활용하여 다양한 사업 아이템을 발굴합니다.
+2. **MVP 개발**: 빠르게 최소 기능 제품(MVP)을 개발하여 시장의 반응을 검증합니다.
+3. **빠른 성장**: 효율적인 개발 프로세스를 통해 빠르게 성장하고 시장에 적응합니다.
+
+## 문의
+궁금한 사항이 있거나 추가적인 정보가 필요하시면, 이메일로 문의해 주세요.
+--------------------------------------------------------------------------
+Akivili와 함께 혁신적인 미래를 만들어 나가요!
