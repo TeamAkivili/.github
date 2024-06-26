@@ -1,4 +1,5 @@
 # Akivili
+![akivili_logo_reverse](https://github.com/TeamAkivili/.github/assets/28776373/2c9976c4-5017-4b23-a7d0-6f1d272043ee)
 
 **Akivili**에 오신 것을 환영합니다! 저희는 AI 플랫폼을 이용해 혁신적인 사업 아이템을 생산하고, 빠르게 MVP를 만들어나가는 회사입니다. 작지만 강력한 LLM 서버로 시작하여 누구보다 빠르게 성장하고, 효율적으로 개발할 것입니다. 우리는 '개척'이라는 의지를 가지고 도전에 망설이지 않고 부딪히고 있습니다.
 
@@ -24,5 +25,9 @@ Akivili는 AI 기술을 활용하여 다양한 사업 아이템을 창출하고,
 
 ## 문의
 궁금한 사항이 있거나 추가적인 정보가 필요하시면, 이메일로 문의해 주세요.
+<p>
+	<a href="mailto:feelwjd@protonmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
 --------------------------------------------------------------------------
 Akivili와 함께 혁신적인 미래를 만들어 나가요!
